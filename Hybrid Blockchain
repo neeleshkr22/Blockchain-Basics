@@ -1,0 +1,71 @@
+The Blockchain is a decentralized distributed database that is shared among computer network nodes. Blockchain can be used in four different ways: Public, Private, Consortium, and Hybrid. The Hybrid blockchain is a revolutionary type of blockchain that is a mix of both worlds, both private and public blockchain. 
+
+What is Hybrid Blockchain?
+A Hybrid blockchain is a blockchain that combines elements of both public and private blockchains. It is designed to reduce the disadvantages of both types of blockchains while maximizing their benefits. 
+
+A hybrid database contains both public and private entries. 
+Similar to public blockchains, where anyone is invited to join and participate in the network, public nodes operate similarly to those in those systems. Private nodes, on the other hand, are in charge of validating and checking transactions and are governed by specific organizations or individuals. 
+Using private nodes, a hybrid blockchain can process transactions more rapidly and with greater privacy and security. Public nodes provide decentralization and transparency at the same time, making it difficult for one group to maintain control over the network. 
+In a hybrid blockchain, the members can decide who can participate in the blockchain or which transactions are made public.
+How Does Hybrid Blockchain Work? 
+A hybrid blockchain essentially has two interfaces: a private blockchain with its own ledgers and a public blockchain that aids in data verification between the private blockchain's ledgers. 
+
+Once a user is granted access to the hybrid blockchain platform, the user can fully participate in the blockchain's activities.
+The user shares equal rights to do the transactions, view them, or even append or modify transactions.
+The identity of the users is kept a secret from other participants.
+When a user performs a transaction with another user on the network then only his identity is revealed by the party he is dealing with.
+Companies and organizations carry out KYC to ensure that the identification process is done correctly.
+Example
+A company wishes to conduct a private transaction with another company. The transaction is processed by the two companies using a private blockchain.
+A digital record of the exchange is created and its validity is confirmed by the private blockchain.
+The private blockchain notifies the public blockchain that a transaction has happened once it has been confirmed.
+The transaction data from the private blockchain is incorporated into a new block that is created on the public blockchain.
+The transaction is made publicly apparent when the new block is added to the public blockchain's ledger. 
+Features of Hybrid Blockchain
+1. Data Security
+When compared to private blockchains, hybrid blockchains offer stricter data security protocols and slightly more flexibility. Overall, the advantage of data security is very significant because it allows one to keep their activities private without worrying about who else might have access to them.
+
+2. Transactions' Cost 
+Low processing costs are another benefit of hybrid blockchain technology. Transactions' cost is assured to be lower because only a few nodes are needed to validate them.
+
+3. Closed Ecosystem
+While preserving anonymity, a hybrid blockchain enables contact with outside parties. A hybrid blockchain cannot be the target of a 51 percent attack from outsiders because it works in a closed environment.
+
+4. New Rules
+The advantage of mixed blockchain is that new rules must be put into place. However, the sort of modification will depend on the hybrid blockchain's objectives.
+
+5. Decentralized Access 
+Another characteristic of this blockchain is the increased decentralization of participant access. Because public and private blockchains approach decentralization in very different ways, a mixed blockchain enables it when and where it is required. However, a business using a hybrid blockchain can make data accessible for authentication while keeping it hidden from the general public. 
+
+6. Transparent Handling of Transactions 
+A hybrid blockchain handles activities more transparently than private blockchains, which is its third feature. In this respect, hybrids perform better due to private blockchains' lack of access.   
+
+Benefits of Hybrid Blockchain
+High-Speed Operations: When compared to the public blockchain and private blockchains, the hybrid blockchain provides high-speed operations and is simpler to manage.
+Reduces Transaction Costs: Because verification in a private or public blockchain can be difficult to complete, strong nodes within the network might be able to exercise some sort of influence over the decision-makers in charge of this process, increasing transparency. As a result, transaction costs are decreased, and expenses may even be as low as $0.01 per transaction.
+Protecting Privacy from the Outside World: The private blockchain is perfect for privacy-related issues but they have limited means of communication with the outside world. Businesses must make sure that they incorporate systems that permit easy contact with all of their shareholders even though the goal of integrating blockchain protocols is to keep their sensitive information secure. 
+Flexible Infrastructure Settings: One of the main advantages of the hybrid blockchain is its versatility in terms of infrastructure services. Hybrid blockchain offers a flexible strategy for tailoring the ledger to one's and the organization's needs, whereas other blockchains offer a strict blockchain infrastructure. The degree of decentralization, security, and accountability demanded by the blockchain can always be changed.
+Protecting from 51% attack: Hybrid blockchain is immune to 51% attack as hackers cannot have access to the network to carry out the attack.
+Hybrid Blockchain Examples 
+Launch of the Aergo Enterprise: Blocko, a South Korean startup backed by Samsung, unveiled its hybrid blockchain system. The company's developers have provided their migration services to additional Blocko clients by utilizing their private blockchain product.
+Using Merkle Bridges: The hybrid approach used by Aergo Enterprise makes it easier for assets like data, virtual products, and supply chain registries to be exchanged between blockchains while also enhancing internal and external security, scalability, and efficiency.
+Swisscoin: An innovative cryptocurrency by the name of Swisscoin uses a mixed network. This shows that it is based on blockchain technology and makes use of a unique trading system as well. Swisscoin has had tremendous success since its launch in May 2017 and is expected to continue to gain popularity. 
+Hybrid Blockchain Use Cases
+1. Enterprise Services
+It can be used to develop open-source software as well as enterprise-level solutions. Businesses in industries like aviation, supply chain, and others, for example, can use hybrid blockchain to automate their services and improve their dependability, confidence, and transparency for both internal stakeholders and external customers.
+
+2. Hybrid IoT
+Using a hybrid blockchain allows for efficient management of the Internet of Things, whereas a public blockchain solution makes it very vulnerable to hacking. Only those who require access to the devices can place them in a private network using hybrid blockchain technology. Some network features can be made public depending on the info that needs to be shared. A hybrid approach can help you handle many security problems.
+
+3. Global Trade and Finance: 
+The mixed blockchain has uses in the financial sector as well. The hybrid blockchain used by XinFin has Ethereum for the public portion and Quorum for the secret portion. Their objective is to provide a platform for global trade and banking based on hybrid technology.
+
+4. Banking 
+A mixed blockchain may be the best option for the financial industry. Because they must protect user information while resolving problems internally, banks may use this tactic. Even the more specialized centralized cryptocurrency Ripple has the adaptability to transition to a hybrid blockchain network when required.
+
+5. Government
+Even in this industry, blockchain technology is developing. The government can use blockchain to distribute social and humanitarian aid, perform voting, create public identity databases, store complex data, and more. For each of these, mixed blockchains are required. While providing the required control to the government, it allows for general access. Blockchains that are fully private or available to the general public are ineffective because they either limit user access or disclose too much information. The government will be able to retain control over the blockchain as long as it is properly governed.
+
+6. Supply Chains
+There is a ton of room for mixed blockchain in supply chains. Due to the size of the supply network, they must use a hybrid approach because Blockchain cannot be either private or public. Many supply chain transportation companies have already started utilizing it. A notable illustration of how a mixed blockchain is being used in the supply chain is the IBM food trust. They want to increase the effectiveness of the complete food supply chain. Farmers, wholesalers, marketers, and others all take part in this network. Walmart actively takes part in this endeavor as well.
+
